@@ -250,8 +250,8 @@ nav ul li a {
 }
 
 #home-image {
-width: 100%;
-height: auto;
+  width: 100%;
+  height: auto;
 }
 
 #home-text {
@@ -264,6 +264,7 @@ height: auto;
 
 #header .header-content {
 /*  height: 100vh; */
+  position: relative;
   text-align: left;
   width: 100%;
   display: flex;
