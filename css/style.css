@@ -282,10 +282,10 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 2vw;
+  font-size: 3vw;
   letter-spacing: 5px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 0;
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
