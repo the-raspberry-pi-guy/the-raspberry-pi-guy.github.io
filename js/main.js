@@ -80,7 +80,7 @@ $(document).ready(function() {
   $(function() {
     typed.typed({
       strings: ["Matt Timmons-Brown.", "a programmer.", "a computer science student.", "an electronics student.", "a YouTuber.", "an author."],
-      typeSpeed: 100,
+      typeSpeed: 70,
       loop: true,
     });
   });
