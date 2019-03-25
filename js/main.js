@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Matt Timmons-Brown", "a programmer", "a computer science student", "an electronics student", "a YouTuber", "an author"],
+      strings: ["Matt Timmons-Brown", "programmer", "computer science student", "electronics student", "YouTuber", "author"],
       typeSpeed: 30,
       loop: true,
     });
