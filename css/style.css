@@ -151,13 +151,13 @@ p {
 }
 
 .paddsection {
-  padding-top: 2vh;
-  padding-bottom: 2vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
 }
 
 .paddsections {
-  padding-top: 2vh;
-  padding-bottom: 2vh !important;
+  padding-top: 1vh;
+  padding-bottom: 1vh !important;
 }
 
 .hvr-shutter-in-horizontal::before {
