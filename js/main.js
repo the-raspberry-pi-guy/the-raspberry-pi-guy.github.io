@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Matt Timmons-Brown.", "a programmer.", "a computer science student.", "an electronics student.", "a YouTuber.", "an author."],
-      typeSpeed: 70,
+      strings: ["Matt Timmons-Brown", "a programmer", "a computer science student", "an electronics student", "a YouTuber", "an author"],
+      typeSpeed: 50,
       loop: true,
     });
   });
