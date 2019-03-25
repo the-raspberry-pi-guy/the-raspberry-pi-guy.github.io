@@ -240,14 +240,18 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
-  max-width: 100%;
-  height: auto;
+  /*background: url("../images/home-bg.jpg") repeat scroll center center / cover;
+  background-image: url("../images/home-bg.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #b79f7e;
+  height: 100vh;
+  width: 100%; */
 }
 
 
 #header .header-content {
-  height: 100vh;
+/*  height: 100vh; */
   text-align: left;
   width: 100%;
   display: flex;
