@@ -151,13 +151,13 @@ p {
 }
 
 .paddsection {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 5vw;
+  padding-bottom: 5vw;
 }
 
 .paddsections {
-  padding-top: 90px;
-  padding-bottom: 90px !important;
+  padding-top: 5vw;
+  padding-bottom: 5vw !important;
 }
 
 .hvr-shutter-in-horizontal::before {
@@ -282,10 +282,10 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 3vw;
+  font-size: 2vw;
   letter-spacing: 5px;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 2px;
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
