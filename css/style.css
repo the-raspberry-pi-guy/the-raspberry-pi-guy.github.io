@@ -266,7 +266,7 @@ nav ul li a {
 
 #home-p {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 0px;
   width: 90%;
 /*  height: 90%;*/
@@ -294,6 +294,7 @@ nav ul li a {
 .header-content p {
   font-size: 1.5vw;
   letter-spacing: 1px;
+  line-height: 3px;
   margin-top: 0;
   margin-bottom: 0;
   text-transform: capitalize;
