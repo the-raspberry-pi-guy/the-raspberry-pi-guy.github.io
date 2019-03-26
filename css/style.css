@@ -264,6 +264,15 @@ nav ul li a {
   padding: 10vw 5% 0% 10%;
 }
 
+#home-p {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  width: 90%;
+/*  height: 90%;*/
+  padding: 10vw 5% 0% 10%;
+}
+
 #header .header-content {
 /*  height: 100vh; */
   position: relative;
