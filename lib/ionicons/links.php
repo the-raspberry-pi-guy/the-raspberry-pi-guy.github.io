@@ -1,5 +1,5 @@
 <?php
   $links = array(
-    'css' => 'lib/ionicons/css/ionicons.min.css'
+    'css' => 'lib/ionicons/css/ionicons.css'
   );
 ?>
